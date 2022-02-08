@@ -1,8 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Hello-World
 
-> Description the project.
+> this is my first repository on Microverse.
 
 
 ## Built With
